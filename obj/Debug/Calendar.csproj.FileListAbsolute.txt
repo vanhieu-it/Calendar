@@ -1,0 +1,9 @@
+D:\C#\Lịch ngày tháng C#\Afterword Apple\bin\Debug\Afterword Apple.exe
+D:\C#\Lịch ngày tháng C#\Afterword Apple\bin\Debug\Afterword Apple.pdb
+D:\C#\Lịch ngày tháng C#\Afterword Apple\obj\Debug\Calendar.csproj.AssemblyReference.cache
+D:\C#\Lịch ngày tháng C#\Afterword Apple\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\C#\Lịch ngày tháng C#\Afterword Apple\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C#\Lịch ngày tháng C#\Afterword Apple\obj\Debug\Calendar.csproj.GenerateResource.cache
+D:\C#\Lịch ngày tháng C#\Afterword Apple\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+D:\C#\Lịch ngày tháng C#\Afterword Apple\obj\Debug\Afterword Apple.exe
+D:\C#\Lịch ngày tháng C#\Afterword Apple\obj\Debug\Afterword Apple.pdb
